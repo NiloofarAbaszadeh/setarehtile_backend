@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aelan_nmayndgans",
+  "info": {
+    "singularName": "aelan-nmayndgan",
+    "pluralName": "aelan-nmayndgans",
+    "displayName": "اعلان نمایندگان"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "discraption": {
+      "type": "richtext"
+    }
+  }
+}
